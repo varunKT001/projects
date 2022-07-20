@@ -11,7 +11,9 @@
 With <a href="https://codedamn.com/">codedamn</a>, we are creating a learning platform that is:
 
 👉 Interactive and fun to learn.
+
 👉 Blends theory learning with practical projects along the way.
+
 👉 Learn industry relevant skills end to end (fullstack web development, blockchain developer, etc.)
 
 This repository should help you build/contribute to projects. To build projects directly, checkout <a href="https://codedamn.com/projects" target="_blank">codedamn projects UI.</a>
