@@ -1,0 +1,16 @@
+name: 
+tags: ["HTML/CSS","JavaScript"]
+starter-files: 
+type: frontend
+level: easy
+cover-image: 
+short-description: 
+long-description: |
+
+    
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html
