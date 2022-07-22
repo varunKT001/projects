@@ -5,6 +5,9 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - uses: actions/checkout@v2
-      - uses: nrkno/yaml-schema-validator-github-action@v4
-        with: 
-          schema: schemas/schema.yml
+      - name: yaml-lint
+        uses: ibiqlik/action-yamllint@v3
+        with:
+          file_or_dir: .
+          config_data: schemas/schema.yml
+      
