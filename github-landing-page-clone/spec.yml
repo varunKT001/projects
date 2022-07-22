@@ -2,7 +2,7 @@ name: GitHub landing page Project
 tags: ["HTML/CSS","JavaScript"]
 starter-files: https://github.com/codedamn-projects/github-landing-page-clone
 type: frontend
-level: easy
+level: 
 cover-image: https://raw.githubusercontent.com/codedamn-projects/github-landing-page-clone/main/assets/desktop-design-non-fs.jpg
 short-description: Build a frontend clone for GitHub using the assets we provide and test your HTML, CSS and JavaScript skills.
 long-description: |

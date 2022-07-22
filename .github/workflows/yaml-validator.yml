@@ -1,7 +1,7 @@
 name: yaml-validator
-on: push
+on: [push, pull_request]
 jobs: 
-  validate-yaml: 
+  validate-yaml:  
     runs-on: ubuntu-latest
     steps: 
       - uses: actions/checkout@v2
@@ -9,5 +9,5 @@ jobs:
         uses: ibiqlik/action-yamllint@v3
         with:
           file_or_dir: .
-          config_data: schemas/schema.yml
+          config_data: ~schemas/schema.yml
       
