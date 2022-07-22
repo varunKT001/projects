@@ -9,5 +9,5 @@ jobs:
         uses: ibiqlik/action-yamllint@v3
         with:
           file_or_dir: .
-          config_data: ~schemas/schema.yml
+          config_data: schemas/schema.yml
       
