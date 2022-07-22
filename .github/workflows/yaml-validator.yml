@@ -3,11 +3,9 @@ on: [push, pull_request]
 jobs: 
   validate-yaml:  
     runs-on: ubuntu-latest
-    steps: 
+    steps:
       - uses: actions/checkout@v2
-      - name: yaml-lint
-        uses: ibiqlik/action-yamllint@v3
+      - uses: nrkno/yaml-schema-validator-github-action@v4
         with:
-          file_or_dir: .
-          config_data: schemas/schema.yml
+          schema: schemas/schema.yaml
       
