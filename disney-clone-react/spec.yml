@@ -8,7 +8,7 @@ short-description: Build a frontend clone for Disney using the assets we provide
 long-description: |
   Your challenge is to build out this landing page and get it looking as close to the design as possible.
   
-  This challenge focuses on building the page in React.js alongside CSS. 
+  This project focuses on building the page in React.js alongside CSS. 
   
   Your users should be able to:
   
