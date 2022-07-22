@@ -1,0 +1,10 @@
+name: yaml-validator
+on: push
+jobs: 
+  validate-yaml: 
+    runs-on: ubuntu-latest
+    steps: 
+      - uses: actions/checkout@v2
+      - uses: nrkno/yaml-schema-validator-github-action@v4
+        with: 
+          schema: schemas/schema.yml
