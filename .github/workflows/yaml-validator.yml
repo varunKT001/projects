@@ -8,5 +8,5 @@ jobs:
     - uses: navikt/yaml-validator@v3
       with:
         schema_path: schemas/schema.yaml
-        document_path: */spec.yml
+        document_path: ./*/spec.yml
         # new comment for test
