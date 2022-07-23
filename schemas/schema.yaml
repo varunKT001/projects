@@ -45,7 +45,7 @@ codedamn:
             type: string
         show-community-banner:
             required: true
-            type: bool
+            type: boolean
         playground-layout:
             required: true
             type: string
