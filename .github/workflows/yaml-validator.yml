@@ -4,9 +4,8 @@ jobs:
   validate-yaml:  
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: yaml-lint
-        uses: ibiqlik/action-yamllint@v3
-        with:
-          file_or_dir: .
-          # config_file: schemas/schema.yaml
+    - uses: actions/checkout@v3
+    - uses: navikt/yaml-validator@v3
+      with:
+        schema_path: schemas/schema.yaml
+        document_path: .
