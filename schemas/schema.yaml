@@ -17,7 +17,7 @@ name:
     type: string
 tags: 
     required: true
-    type: array
+    type: list
 starter-files:
     required: true  
     type: string
@@ -37,15 +37,19 @@ long-description:
     required: true
     type: string
 codedamn:
-    helper-learning-path:
-        required: true
-        type: string
-    show-community-banner:
-        required: true
-        type: boolean
-    playground-layout:
-        required: true
-        type: string
-    playground-image:
-        required: true
-        type: string
+    required: true
+    type: dict
+    schema: 
+        helper-learning-path:
+            required: true
+            type: string
+        show-community-banner:
+            required: true
+            type: bool
+        playground-layout:
+            required: true
+            type: string
+        playground-image:
+            required: true
+            type: string
+    
