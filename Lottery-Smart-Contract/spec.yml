@@ -1,6 +1,6 @@
 name: Lottery Smart Contract
 tags: ["Web3", "Solidity"]
-starter-files: https://github.com/kshitijofficial/erc20Project
+starter-files: https://github.com/kshitijofficial/LotteryProject
 type: backend
 level: easy
 cover-image: https://raw.githubusercontent.com/kshitijofficial/LotteryProject/main/asset/Lottery.png
