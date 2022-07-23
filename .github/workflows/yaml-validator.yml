@@ -9,3 +9,4 @@ jobs:
       with:
         schema_path: schemas/schema.yaml
         document_path: */spec.yml
+        # new comment for test
