@@ -1,6 +1,7 @@
 name: Event Organization Smart Contract
 tags: ["Web3", "Solidity"]
 starter-files: https://github.com/kshitijofficial/EventProject
+type: backend
 level: medium
 cover-image: https://raw.githubusercontent.com/kshitijofficial/EventProject/main/asset/event.png
 short-description: In this project we will organize an event using the solidity smart contract.
