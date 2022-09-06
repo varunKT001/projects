@@ -54,4 +54,4 @@ In this step you are tasked to create a new `style.css` file and link it with th
    - the next two digits `26` represent the intensity of Green
    - the last two digits `29` represent the intensity of Blue
 
-Now that we setup the basic boilerplate code and linked the `style.css` file with the `index.html` file, let's move on to the next step and create the HTML
+Now that we setup the basic boilerplate code and linked the `style.css` file with the `index.html` file, let's move on to the next step and create the HTML.
