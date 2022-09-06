@@ -1,0 +1,12 @@
+name: "Building the footer"
+stepId: step4
+stepBreakDown:
+  - text: "Create a `<footer>` element below the `#gallery-container`"
+  - text: "Create two `<p>` elements with the IDs `footer-title` and `about` respectively"
+  - text: "Add the text `MULTIVERSE GALLERY PROJECT` to `#footer-title`"
+  - text: "Add the text `About` to `#about`"
+  - text: "Create a new `<img>` element with in `#about` with the id `info-icon` set the source to `assets/info-icon.svg`"
+  - text: "Set the background color of the footer to `#1f2224`"
+  - text: "Set  the color of `#footer-title` to white and  "
+  - text: "Make the footer a fixed to the bottom of the page"
+  - text: "Make the footer flex container and set the `justify-content` to `space-between` and `align-items` to `center`"

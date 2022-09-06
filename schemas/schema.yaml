@@ -52,4 +52,7 @@ codedamn:
         playground-image:
             required: true
             type: string
+        guided: 
+            required: false
+            type: boolean
     
