@@ -1,5 +1,3 @@
-# Introduction
-
 In this step the main goal is to build the HTML structure for the gallery project, the structure is a simple nested structure of `article > img + span` tags. It is okay if you are not able to understand this notation.
 
 Here the `>` means the child of the parent, the `+` means the sibling of the previous element:

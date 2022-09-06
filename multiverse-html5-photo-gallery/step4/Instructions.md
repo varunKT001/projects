@@ -1,5 +1,3 @@
-# Instructions
-
 Now that we have completed the gallery, it's time to add some finishing touches, by completing the footer of the project.
 
 1. Add the `footer` tag as a sibling to the `#gallery-container`.

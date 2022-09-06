@@ -6,31 +6,31 @@
 # cover-image: str()
 # short-description: str()
 # long-description: str()
-# codedamn: 
+# codedamn:
 #     helper-learning-path: str()
 #     show-community-banner: bool()
 #     playground-layout: str()
 #     playground-image: str()
 
-name: 
+name:
     required: true
     type: string
-tags: 
+tags:
     required: true
     type: list
 starter-files:
-    required: true  
+    required: true
     type: string
 type:
     required: true
-    type: string   
-level: 
+    type: string
+level:
     required: true
     type: string
-cover-image:    
+cover-image:
     required: true
     type: string
-short-description:  
+short-description:
     required: true
     type: string
 long-description:
@@ -39,7 +39,7 @@ long-description:
 codedamn:
     required: true
     type: dict
-    schema: 
+    schema:
         helper-learning-path:
             required: true
             type: string
@@ -52,7 +52,6 @@ codedamn:
         playground-image:
             required: true
             type: string
-        guided: 
+        guided:
             required: false
             type: boolean
-    

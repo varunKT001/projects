@@ -1,5 +1,3 @@
-# Introduction
-
 In this step our goal is to set up the basic boilerplate code and link the `style.css` file with the `index.html` file.
 
 Before jumping into the code of the project, make sure that you understand the basic structure of the HTML5 document and what the boilerplate code does:
