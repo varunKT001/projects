@@ -3,7 +3,7 @@ tags: ["React"]
 starter-files: https://github.com/codedamn-projects/disney-clone-react
 type: frontend
 level: easy
-cover-image: https://raw.githubusercontent.com/codedamn-projects/disney-clone/main/assets/home-desktop-design.jpg
+cover-image: https://raw.githubusercontent.com/codedamn-projects/disney-clone-react/master/src/assets/home-design-non-fs.jpg
 short-description: Build a frontend clone for Disney using the assets we provide and test your React skills
 long-description: |
   Your challenge is to build out this landing page and get it looking as close to the design as possible.
