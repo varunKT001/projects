@@ -1,6 +1,6 @@
 name: ERC20 Token
 tags: ["Web3", "Solidity"]
-starter-files: https://github.com/kshitijofficial/erc20Project
+starter-files: https://github.com/codedamn-projects/erc20Project
 type: backend
 level: medium
 cover-image: https://raw.githubusercontent.com/kshitijofficial/erc20Project/main/erc.png
