@@ -1,5 +1,3 @@
-# Build a register page at /register
-
 In this step, we will aim to build a register page on /register path. You will have to work with `localStorage` API to add the registered user to `localStorage` once they register successfully.
 
 ## Pointers to note

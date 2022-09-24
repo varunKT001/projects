@@ -1,5 +1,3 @@
-# Building dashboard
-
 The dashboard should load feed from all the users. This feed should be also stored in localStorage as feed as the localStorage key, and the following structure as the value (feel free to change it to add more features):
 
 ```json
