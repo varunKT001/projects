@@ -1,7 +1,7 @@
 name: ERC20 Token
 tags: ["Web3", "Solidity"]
 starter-files: https://github.com/codedamn-projects/erc20Project
-type: backend
+type: web3
 level: medium
 cover-image: https://raw.githubusercontent.com/kshitijofficial/erc20Project/main/erc.png
 short-description: This project will be a perfect test of how to create your own ERC20 Token from scratch.
