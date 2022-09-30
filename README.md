@@ -1,4 +1,4 @@
-# Codedamn Hacktoberfest - Contribute a project and win prizes
+# Welcome To Hacktoberfest - Contribute a project and win prizes
 
 This initiative is part of [Codedamn's Hacktoberfest](https://codedamn.com/hacktoberfest)
 
