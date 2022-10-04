@@ -6,6 +6,8 @@ During Hacktoberfest, submit an interactive project to this repository and get a
 
 ## How to participate? (read carefully)
 
+If you want to watch a step-by-step video on how to contribute, check out this video: [https://www.youtube.com/watch?v=a65Qaycbb0k](https://www.youtube.com/watch?v=a65Qaycbb0k)
+
 In order to participate and win prizes, you have to submit a **guided project**. A guided project is a breakdown of a project into multiple steps for a beginner/intermediate developer to build. These guided projects can be attempted for free from codedamn IDE. Check out this [example guided project](https://codedamn.com/project/multiverse-html5-photo-gallery). Steps on how to do that is below.
 
 ### 1. Getting your boilerplate code ready
