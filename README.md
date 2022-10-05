@@ -16,7 +16,7 @@ In order to participate and win prizes, you have to submit a **guided project**.
 
 2. Create a fresh folder structure for your project and keep the **required boilerplate code only**. Make sure to add all the assets related to the project. It is recommended to put all your assets in the `/assets` folder itself.
 
-3. Add a `.cdmrc` file on the top level of your Project. Go through this [documentation](https://teach.codedamn.com/cdmrc) to setup the `.cdmrc` file.
+3. Add a `.cdmrc` file on the top level of your Project. Go through this [documentation](https://teach.codedamn.com/docs/concepts/cdmrc) to setup the `.cdmrc` file.
 
 4. Create a new GitHub repository for the Project and keep the link with you, you'll use it in the next step.
 
